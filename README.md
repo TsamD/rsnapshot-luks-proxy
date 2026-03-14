@@ -1,5 +1,4 @@
 ---
-
 # Automated Resilient Web Infrastructure with Secure Backups
 
 *(Nginx Reverse Proxy + TLS + Rsnapshot + LUKS)*
