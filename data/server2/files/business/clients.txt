@@ -1,0 +1,5 @@
+ClientID,Name,City
+1001,Fatima,Namur
+1002,Johan,Montreal
+1003,Sofiane,Tanger
+1004,Ibtissam,Bruxelles
