@@ -16,7 +16,7 @@ In a standard GPG-based backup, every encryption cycle creates unique binary dat
 
 We have industrialized this strategy by using **Docker** to simulate a real infrastructure composed of 3 independent machines.
 
-![Backup Architecture](backup.png)
+![Backup Architecture](architecture.png)
 
 ### Components
 1. **Backup Server (Rsnapshot)**: The orchestrator. It initiates the SSH connection (Pull), retrieves raw files directly, and manages history (snapshot rotation).
